@@ -8,7 +8,6 @@ charset-normalizer==3.3.2
 createrepo_c==1.1.2
 Django==5.0.6
 django-cors-headers==4.4.0
-django-repos @ file:///home/antehich/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/django_repos/dist/django-repos-0.1.tar.gz#sha256=de99350cd99ff3e5e95bdecd66687b48153d67881e2b23ed6400cef21886f7ba
 gunicorn==22.0.0
 idna==3.7
 jmespath==1.0.1
